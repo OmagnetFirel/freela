@@ -62,7 +62,7 @@ a:focus,
 a:hover {
     text-decoration: none;
     outline: 0;
-    color: #777;
+    color: #fff;
 }
 .btn.active.focus,
 .btn.active:focus,
@@ -1695,13 +1695,13 @@ nav a:hover {
 .service-area .prev-trigger:hover,
 .footer-social a:hover {
     background-image: -moz-linear-gradient(90deg, #477fbb 0%, #477fbb 100%);
-    background-image: -webkit-linear-gradient(90deg, #477fbb 0%, #fbd2f6 100%);
-    background-image: -ms-linear-gradient(190eg, #f6d0c5 0%, #477fbb 100%);
+    background-image: -webkit-linear-gradient(90deg, #477fbb 0%, #477fbb 100%);
+    background-image: -ms-linear-gradient(190eg, #477fbb 0%, #477fbb 100%);
 }
 .p2-gradient-bg,
 .primary-btn:after {
     background-image: -moz-linear-gradient(190deg, #477fbb 0%, #477fbb 100%);
-    background-image: -webkit-linear-gradient(190deg, #477fbb 0%, #fbd2f6 100%);
+    background-image: -webkit-linear-gradient(190deg, #477fbb 0%, #477fbb 100%);
     background-image: -ms-linear-gradient(190deg, #477fbb 0%, #477fbb 100%);
 }
 .p1-gradient-color {
